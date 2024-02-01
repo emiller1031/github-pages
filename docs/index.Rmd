@@ -1,5 +1,5 @@
 ---
-title: "github-pages"
+title: "github pages"
 author: "Elizabeth Miller"
 date: "`r Sys.Date()`"
 output: html_document
